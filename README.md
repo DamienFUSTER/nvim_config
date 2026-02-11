@@ -1,5 +1,4 @@
-## What to install ?
+# My NeoVim configuration
 
-- lazy.nvim (package manager)
-- everforest (Theme)
+## Neovim structure
 
