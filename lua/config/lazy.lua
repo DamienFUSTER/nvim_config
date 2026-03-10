@@ -49,3 +49,7 @@ require("config.keymap")
 -- Pour Vimtex
 vim.g.vimtex_view_method = 'zathura'
 vim.g.vimtex_compiler_method = 'latexmk'
+
+-- Pour le theme
+vim.g.everforest_enable_italic = true
+vim.cmd.colorscheme('everforest')
